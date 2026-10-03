@@ -11,8 +11,11 @@ The dataset lands in an S3 data lake and flows into Snowflake through a storage 
 ## Architecture
 
 ![Zomato Data Pipeline Architecture](data/architecture.png)
-📂 Dataset + project slides: Google Drive folder "https://drive.google.com/drive/project/1NUaaL5ID8Y-pUMgamX12GN73mIXBffUQ?usp=drive_link" — download the CSVs here and place them under data/ (they're too large to commit to the repo).
-## What gets built
+## Dataset & Project Presentation
+
+📊 [Download Dataset](https://drive.google.com/drive/project/1NUaaL5ID8Y-pUMgamX12GN73mIXBffUQ?usp=drive_link)
+
+📑 [View Project PPT](https://drive.google.com/drive/project/1NUaaL5ID8Y-pUMgamX12GN73mIXBffUQ?usp=drive_link)
 
 | **Layer**         | **Where**                  | **What** |
 |-------------------|----------------------------|----------|
