@@ -20,7 +20,7 @@ The dataset lands in an S3 data lake and flows into Snowflake through a storage 
 
 The dataset files and project presentation are available in the Google Drive folder. The CSV files are not included in the repository because of their large size.
 
-What gets built
+## What Gets Built
 | **Layer**         | **Where**                  | **What** |
 |-------------------|----------------------------|----------|
 | **Source**        | `data/` (local)            | Zomato food delivery datasets |
